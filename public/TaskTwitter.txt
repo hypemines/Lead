@@ -1,0 +1,34 @@
+{
+  "lastModified": 1234567890,
+  "tasks": [
+    {
+      "id": 0,
+      "text": "Follow",
+      "linkText": "@HypeMines",
+      "link": "https://twitter.com/intent/user?screen_name=HypeMines",
+      "buttonText": "FOLLOW"
+    },
+    {
+      "id": 1,
+      "text": "Like this",
+      "linkText": "Tweet",
+      "link": "https://x.com/intent/like?tweet_id=1837643023683146094",
+      "buttonText": "LIKE"
+    },
+    {
+      "id": 2,
+      "text": "Retweet this",
+      "linkText": "Tweet",
+      "link": "https://x.com/intent/retweet?tweet_id=1837643023683146094",
+      "buttonText": "RETWEET"
+    },
+    {
+      "id": 3,
+      "text": "Reply this",
+      "linkText": "Tweet",
+      "link": "https://x.com/Roobet/status/1837643023683146094",
+      "buttonText": "REPLY",
+      "extraContent": "with #HypeMinesLeaderboard and tag a @friend"
+    }
+  ]
+}
